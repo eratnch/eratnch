@@ -6,10 +6,10 @@ My name is *Ratnopam Chakrabarti* and I am a software developer and architect by
 
 
 ## 🔭 I’m currently working on 
-- All things ![](assets/k8s.png) and ![](assets/docker.png)
+- All things ![](assets/k8s.png)
 - [Kubernetes-sig-cluster-api](https://github.com/kubernetes-sigs/cluster-api) based projects
 - Openstack, Azure and GCP
-- Containers
+- ![](assets/docker.png)
 
 ## 🌱 I’m currently learning 
 - Golang
@@ -24,7 +24,7 @@ My name is *Ratnopam Chakrabarti* and I am a software developer and architect by
 - cluster-api
 - openstack 
 - azure 
-- All things :cloud: and Containers
+- :cloud: computing and ![](assets/docker.png)
 
 ## 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/ratnopam-chakrabarti/)
