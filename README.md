@@ -6,7 +6,6 @@ My name is *Ratnopam Chakrabarti* and I am a software developer and architect by
 
 
 ## 🔭 I’m currently working on 
-- ! [assets/kubernetes]
 - [Kubernetes-sig-cluster-api](https://github.com/kubernetes-sigs/cluster-api) based projects
 - Openstack, Azure and GCP
 - Containers
