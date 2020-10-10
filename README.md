@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Ratnopam Chakrabarti** and I am a software developer and architect by profession. 
+I am a software developer and architect by profession. 
 <!--
 **eratnch/eratnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -27,12 +27,10 @@ My name is **Ratnopam Chakrabarti** and I am a software developer and architect 
 - :cloud: computing and ![](assets/docker.png)
 
 ## 📫 How to reach me: ...
-- [LinkedIn](https://www.linkedin.com/in/ratnopam-chakrabarti/)
-- [Email](ratnopamc@yahoo.com)
-- [Twitter](https://twitter.com/ratnopam])
+
 
 ## ✍ Latest Blog Posts
-- [Medium](https://medium.com/@chakrar27)
+
 
 ## ⚡ Fun fact:
 
