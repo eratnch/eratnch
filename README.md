@@ -29,7 +29,10 @@ I am a software developer and architect by profession.
 ## ✍ Latest Blog Posts
 
 
-## ⚡ Fun fact:
+<!-- ## ⚡ Fun fact: -->
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📫 How to reach me: ...
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ratnopam-chakrabarti/)
