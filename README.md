@@ -26,6 +26,11 @@ I am a software developer and architect by profession.
 - azure 
 - :cloud: computing and ![](assets/docker.png)
 
+## ✍ Latest Blog Posts
+
+
+## ⚡ Fun fact:
+
 ## 📫 How to reach me: ...
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ratnopam-chakrabarti/)
 
@@ -41,10 +46,6 @@ I am a software developer and architect by profession.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-## ✍ Latest Blog Posts
-
-
-## ⚡ Fun fact:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eratnch&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eratnch&layout=compact&theme=dark&exclude_repo=eratnch.github.io&langs_count=8&hide=javascript,html)
